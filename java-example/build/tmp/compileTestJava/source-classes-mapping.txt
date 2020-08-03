@@ -1,0 +1,2 @@
+ru/stqa/training/selenium/MyFirstTest.java
+ ru.stqa.training.selenium.MyFirstTest
