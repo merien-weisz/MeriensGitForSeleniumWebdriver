@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.stqa.training.selenium.MyFirstTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-08-03T14:20:15" hostname="MacBook-Pro-admin-66.local" time="3.495">
+<testsuite name="ru.stqa.training.selenium.MyFirstTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-08-05T08:39:49" hostname="MacBook-Pro-admin-66.local" time="23.558">
   <properties/>
-  <testcase name="myFirstTest" classname="ru.stqa.training.selenium.MyFirstTest" time="3.495">
-    <failure message="org.openqa.selenium.ElementNotInteractableException: element not interactable&#10;  (Session info: chrome=84.0.4147.105)&#10;  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Mac OS X 10.15.5 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 31 milliseconds&#10;Build info: version: '3.0.0', revision: '350cf60', time: '2016-10-13 10:48:57 -0700'&#10;System info: host: 'MacBook-Pro-admin-66.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.5', java.version: '9.0.4'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62450}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=/var/folders/5_/rj0pry4j0j34mbzm73vt9t5c0000gp/T/.com.google.Chrome.dpCQjh}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.105, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: d6bb1528f4ccc082efac89cd85a5f1ee" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: element not interactable
+  <testcase name="myFirstTest" classname="ru.stqa.training.selenium.MyFirstTest" time="23.558">
+    <failure message="org.openqa.selenium.ElementNotInteractableException: element not interactable&#10;  (Session info: chrome=84.0.4147.105)&#10;  (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Mac OS X 10.15.5 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 54 milliseconds&#10;Build info: version: '3.0.0', revision: '350cf60', time: '2016-10-13 10:48:57 -0700'&#10;System info: host: 'MacBook-Pro-admin-66.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.5', java.version: '9.0.4'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49910}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=/var/folders/5_/rj0pry4j0j34mbzm73vt9t5c0000gp/T/.com.google.Chrome.gxHDGE}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.105, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]&#10;Session ID: 85d0b5110e402f2a7664421f635957c9" type="org.openqa.selenium.ElementNotInteractableException">org.openqa.selenium.ElementNotInteractableException: element not interactable
   (Session info: chrome=84.0.4147.105)
   (Driver info: chromedriver=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}),platform=Mac OS X 10.15.5 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 31 milliseconds
+Command duration or timeout: 54 milliseconds
 Build info: version: '3.0.0', revision: '350cf60', time: '2016-10-13 10:48:57 -0700'
 System info: host: 'MacBook-Pro-admin-66.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.5', java.version: '9.0.4'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62450}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=/var/folders/5_/rj0pry4j0j34mbzm73vt9t5c0000gp/T/.com.google.Chrome.dpCQjh}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.105, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
-Session ID: d6bb1528f4ccc082efac89cd85a5f1ee
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49910}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}), userDataDir=/var/folders/5_/rj0pry4j0j34mbzm73vt9t5c0000gp/T/.com.google.Chrome.gxHDGE}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=84.0.4147.105, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 85d0b5110e402f2a7664421f635957c9
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -73,16 +73,16 @@ Session ID: d6bb1528f4ccc082efac89cd85a5f1ee
 </failure>
   </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 5805
+  <system-err><![CDATA[Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 39861
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-[1596464415.926][WARNING]: FromSockAddr failed on netmask
+[1596616789.963][WARNING]: FromSockAddr failed on netmask
 ChromeDriver was started successfully.
-авг. 03, 2020 5:20:15 ПП org.openqa.selenium.remote.ProtocolHandshake createSession
+авг. 05, 2020 11:39:50 ДП org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
-авг. 03, 2020 5:20:16 ПП org.openqa.selenium.remote.ProtocolHandshake createSession
+авг. 05, 2020 11:39:51 ДП org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Falling back to original OSS JSON Wire Protocol.
-авг. 03, 2020 5:20:17 ПП org.openqa.selenium.remote.ProtocolHandshake createSession
+авг. 05, 2020 11:39:52 ДП org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
 </testsuite>
