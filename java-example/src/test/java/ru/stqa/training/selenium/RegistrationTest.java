@@ -24,7 +24,7 @@ public class RegistrationTest {
     }
 
     @Test
-    public void addProductTest() throws InterruptedException {
+    public void addUserTest() throws InterruptedException {
 
         driver.navigate().to("http://localhost:8080/litecart");
         driver.findElement(By.xpath("//a[contains(.,'New customers click here')]")).click();
