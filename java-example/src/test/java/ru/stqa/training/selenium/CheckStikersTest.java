@@ -43,7 +43,7 @@ public class CheckProductsBadgesTest {
             JavascriptExecutor jse = (JavascriptExecutor) driver;
             jse.executeScript("window.scrollBy(0,250)");
 
-            var products = driver.findElements(By.className("product.column.shadow.hover-light"));
+            var products = driver.findElements(By.className("product"));
 
             for (WebElement product : products) {
                 Assert.assertTrue(conditionCheck(product));
